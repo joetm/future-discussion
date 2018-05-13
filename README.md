@@ -1,12 +1,10 @@
-# TodoMVC example for react-rethinkdb
+# Future community discussion
 
-Example [TodoMVC](http://todomvc.com/) app using react-rethinkdb.
-
-Based on the [React TodoMVC example](http://todomvc.com/examples/react/).
+Based on [TodoMVC](http://todomvc.com/) example of react-rethinkdb.
 
 ## How do I run this?
 
-* Start a RethinkDB server on `localhost` port `28015`
+* Type `rethinkdb` to start a RethinkDB server on `localhost` port `29015`
 * Run `npm install` to set up the app
 * Run `npm run resetdb` to reset a database with name `react_example_todomvc`
 * Run `npm start` to start the web server

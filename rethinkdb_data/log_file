@@ -1,0 +1,19 @@
+2018-05-13T14:43:02.414797968 0.024111s notice: Recursively removing directory /var/www/cp/future-discussion/rethinkdb_data/tmp
+2018-05-13T14:43:02.418082268 0.027395s notice: Initializing directory /var/www/cp/future-discussion/rethinkdb_data
+2018-05-13T14:43:02.418175168 0.027487s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/var/www/cp/future-discussion/rethinkdb_data' did not already exist or is empty.)
+2018-05-13T14:43:02.418231133 0.027543s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-05-13T14:43:02.423417189 0.032732s notice: Running on Linux 4.13.0-41-generic x86_64
+2018-05-13T14:43:02.423481599 0.032794s notice: Loading data from directory /var/www/cp/future-discussion/rethinkdb_data
+2018-05-13T14:43:02.443784512 0.053097s info: Automatically using cache size of 373 MB
+2018-05-13T14:43:02.444491805 0.053804s notice: Listening for intracluster connections on port 29015
+2018-05-13T14:43:02.445204849 0.054517s notice: Listening for client driver connections on port 28015
+2018-05-13T14:43:02.445336351 0.054648s notice: Listening for administrative HTTP connections on port 8080
+2018-05-13T14:43:02.445339914 0.054652s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-05-13T14:43:02.445344685 0.054656s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-05-13T14:43:02.445347586 0.054659s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-05-13T14:43:02.445352117 0.054664s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-05-13T14:43:02.445356892 0.054669s notice: Server ready, "yoga_a81" 3192996c-c3fc-4bf5-980a-6f43987590fb
+2018-05-13T14:43:35.747845582 33.357158s info: Table bc7a34db-588e-4688-aa18-f9be12f59274: Added replica on this server.
+2018-05-13T14:43:35.747888259 33.357200s info: Table bc7a34db-588e-4688-aa18-f9be12f59274: Starting a new Raft election for term 1.
+2018-05-13T14:43:35.750654934 33.359967s info: Table bc7a34db-588e-4688-aa18-f9be12f59274: This server is Raft leader for term 1. Latest log index is 0.
+2018-05-13T14:43:36.005429198 33.614741s info: Table bc7a34db-588e-4688-aa18-f9be12f59274: Configuration is changing.
